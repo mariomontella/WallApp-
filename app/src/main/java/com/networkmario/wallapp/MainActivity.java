@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
                 String query = "car";
                 getsearchimage(query);
 
-            }
+            }  
         });
 
         mtrain.setOnClickListener(new View.OnClickListener() {
